@@ -1,0 +1,1 @@
+El objetivo de este proyecto es "diseñar un sistema balanceado de asignación de créditos" que impulse la realización de actividades con alto valor educativo. Se busca encontrar una distribución para los beneficios obtenidos a través de las actividades evaluativas en la asignatura Matemática Numérica.
